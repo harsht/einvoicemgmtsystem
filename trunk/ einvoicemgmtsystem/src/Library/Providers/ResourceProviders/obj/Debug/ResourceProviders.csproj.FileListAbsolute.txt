@@ -1,7 +1,0 @@
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\ResourceProviders\bin\Debug\BugNET.Providers.ResourceProviders.dll
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\ResourceProviders\bin\Debug\BugNET.Providers.ResourceProviders.pdb
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\ResourceProviders\obj\Debug\ResolveAssemblyReference.cache
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\ResourceProviders\obj\Debug\BugNET.Providers.ResourceProviders.Properties.Resources.resources
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\ResourceProviders\obj\Debug\ResourceProviders.csproj.GenerateResource.Cache
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\ResourceProviders\obj\Debug\BugNET.Providers.ResourceProviders.dll
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\ResourceProviders\obj\Debug\BugNET.Providers.ResourceProviders.pdb

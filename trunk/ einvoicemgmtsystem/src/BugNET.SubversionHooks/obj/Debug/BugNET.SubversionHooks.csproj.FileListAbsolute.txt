@@ -1,7 +1,0 @@
-C:\BugTrack\BugNET-0.8.99-Source\src\BugNET.SubversionHooks\bin\Debug\BugNET.SubversionHooks.exe.config
-C:\BugTrack\BugNET-0.8.99-Source\src\BugNET.SubversionHooks\bin\Debug\BugNET.SubversionHooks.exe
-C:\BugTrack\BugNET-0.8.99-Source\src\BugNET.SubversionHooks\bin\Debug\BugNET.SubversionHooks.pdb
-C:\BugTrack\BugNET-0.8.99-Source\src\BugNET.SubversionHooks\bin\Debug\log4net.dll
-C:\BugTrack\BugNET-0.8.99-Source\src\BugNET.SubversionHooks\obj\Debug\ResolveAssemblyReference.cache
-C:\BugTrack\BugNET-0.8.99-Source\src\BugNET.SubversionHooks\obj\Debug\BugNET.SubversionHooks.exe
-C:\BugTrack\BugNET-0.8.99-Source\src\BugNET.SubversionHooks\obj\Debug\BugNET.SubversionHooks.pdb

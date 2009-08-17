@@ -1,5 +1,0 @@
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\HtmlEditorProvider\bin\Debug\BugNET.Providers.HtmlEditorProviders.dll
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\HtmlEditorProvider\bin\Debug\BugNET.Providers.HtmlEditorProviders.pdb
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\HtmlEditorProvider\obj\Debug\ResolveAssemblyReference.cache
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\HtmlEditorProvider\obj\Debug\BugNET.Providers.HtmlEditorProviders.dll
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\HtmlEditorProvider\obj\Debug\BugNET.Providers.HtmlEditorProviders.pdb

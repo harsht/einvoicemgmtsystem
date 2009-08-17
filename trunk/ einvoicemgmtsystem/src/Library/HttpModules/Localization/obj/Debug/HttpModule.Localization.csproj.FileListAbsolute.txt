@@ -1,5 +1,0 @@
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\HttpModules\Localization\bin\Debug\BugNET.HttpModules.Localization.dll
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\HttpModules\Localization\bin\Debug\BugNET.HttpModules.Localization.pdb
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\HttpModules\Localization\obj\Debug\ResolveAssemblyReference.cache
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\HttpModules\Localization\obj\Debug\BugNET.HttpModules.Localization.dll
-C:\BugTrack\BugNET-0.8.99-Source\src\Library\HttpModules\Localization\obj\Debug\BugNET.HttpModules.Localization.pdb
