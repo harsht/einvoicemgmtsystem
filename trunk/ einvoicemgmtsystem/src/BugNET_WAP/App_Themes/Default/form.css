@@ -1,0 +1,78 @@
+/* FORM STYLES */
+
+table.form 
+{
+	table-layout:fixed; /* force a solid grid */
+	border-collapse:collapse;
+	margin: 0;
+	width:650px;
+}
+table.form th, table.form td {
+	white-space:nowrap; /* don't want wrapping text */
+	padding:2px 15px 3px 5px; /* right padding for required field marker */
+	font-weight:normal;
+}
+
+table.form th, th.field{
+	padding:2px 0 2px 5px;
+	text-align:left;
+	width:140px;
+	font-weight:normal;
+}
+table.form th.required
+{
+	font-weight:bold;
+}
+table.form table td
+{
+    padding:0;
+}	
+td.required, tr.required td {
+	background:url("../req.gif") center right no-repeat;
+}
+
+table.form input, td.form input,td.form select{
+	width:100%; /* simply scale inputs to table cell size */
+}
+table.form select 
+{
+	width:75%;
+}
+table.form td.input-group input {
+	width:auto; /* but not for radios or checks */ 
+}
+td.form
+{
+	white-space:nowrap; /* don't want wrapping text */
+	padding:2px 20px 3px 0px; /* right padding for required field marker */
+	font-weight:normal;
+}
+
+fieldset 
+{
+	width:650px;
+	margin: 15px 0 10px;
+	padding:5px;
+	/*background-color:#FAFAFA;*/
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #bbb;
+	border: 1px solid #ccc;	
+}
+legend {
+	padding: 2px 5px;
+	color: #696;
+	background-color:#fff;
+	font-weight: bold;
+}
+
+
+td.disabled input
+{
+	background-color:#efefef;
+	border:1px solid #ccc;
+	padding:2px;
+	color:#333333;
+}
+table.form td.field input {
+	width:200px; /* but not for radios or checks */ 
+}

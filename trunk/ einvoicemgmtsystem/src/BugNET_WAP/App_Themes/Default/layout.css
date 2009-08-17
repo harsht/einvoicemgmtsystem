@@ -1,0 +1,182 @@
+/*  body and font definitions */
+html { 
+  padding:0px;
+  margin:0px;
+  height: 100%;
+}
+
+body {
+  font-size:70%;
+  font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+  color:#333333; 
+  padding:0px;
+  margin:0px;
+  height: 100%;
+}
+
+ h2, pre {
+	margin: 0px; 
+	padding: 5px 20px 5px 20px; 
+}
+
+a 
+{
+	color:#00489E;
+	font-size: 11px;
+	background-color:transparent;
+	text-decoration: none; 
+}
+ 
+pre { 
+	color: #564b47;
+	font-size: 11px;
+	background-color:transparent;
+	font-family: Courier, Monaco, Monospace;
+}
+
+.alignright {
+	margin-top: 0; 
+	text-align: right;
+	font-size: 10px;
+}
+
+h2 {
+	font-size:14px;
+	padding-top:10px;
+	color: #564b47;
+	background-color: transparent;
+}
+
+/*h1 {
+	font-size: 11px;
+	text-transform:uppercase;
+	text-align: right;
+	color: #564b47;
+	background-color: #90897a;
+	padding:5px 15px;
+	margin:0px
+}*/
+
+strong { 
+	font-size: 13px;
+}
+
+/*  3 column positioning-layers static and absolute */
+
+#left {
+	position: absolute;
+	left: 0px;
+	width: 280px;
+	margin:20px 0 0 0;
+	padding:0 0 0 7px;
+}
+
+#content {
+	margin:30px 190px 0px 280px;
+	padding:0 0 5em; /* bottom padding for footer */     
+}
+
+#right {
+	position: absolute;
+	right: 0px;        
+	width: 190px;
+	margin: 0px; 
+	padding: 0px;
+}
+
+/*  4 column positioning-layers static and absolute */
+
+#pagetitle{
+	top:115px;
+	background:#fff;  
+}
+		
+#leftcontent {
+	position: absolute;
+	left:0px;
+	width:24.75%;
+	top:175px;
+	background:#fff;
+	padding:0 0 5em; /* bottom padding for footer */     
+  
+}
+
+#centerleftcontent {
+	position: absolute;
+	left:25%;
+	width:24.75%;
+	top:175px;
+	background:#fff; 
+	padding:0 0 5em; /* bottom padding for footer */     
+}
+
+#centerrightcontent {
+	position: absolute;
+	left:50%;
+	width:24.75%;
+	top:175px;
+	background:#fff;
+	padding:0 0 5em; /* bottom padding for footer */     
+}
+
+#rightcontent {
+	position: absolute;
+	left:75%;
+	width:24.75%;
+	top:175px;	
+	padding:0 0 5em; /* bottom padding for footer */       
+}
+
+/*  2 column positioning-layers static and absolute */
+#menu {
+	position: absolute;
+	left: 0px;
+	width: 150px;
+	margin: 0px; 
+	padding:0px 0 0 7px;
+}
+#contentcolumn
+{
+	margin: 0px 0px 0px 200px;
+	padding:0 0 5em; /* bottom padding for footer */
+} 
+
+/* full width */
+#fullcontentcolumn
+{
+	padding:0 0 5em; /* bottom padding for footer */
+	margin:0 10px 0 10px;
+}
+
+
+div#container {
+    position:relative; /* needed for footer positioning*/
+    margin:0 auto; /* center, not in IE5 */
+    /*background:#f0f0f0;*/
+    height:auto !important; /* real browsers */
+    height:100%; /* IE6: treaded as min-height*/
+    min-height:100%; /* real browsers */
+}
+div#footer 
+{
+	clear:both;
+    position:absolute;
+    width:100%;
+    bottom:0; /* stick to bottom */
+}
+div#footer p{
+    color:#999;
+    font-size:9px;
+    padding:7px;
+   
+}
+div#footer p a
+{
+	font-size:9px;
+	padding-bottom:2px;
+	border-bottom:1px dotted #ccc;
+}
+
+
+
+

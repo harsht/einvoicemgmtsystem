@@ -1,0 +1,5 @@
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\MembershipProviders\bin\Debug\BugNET.Providers.MembershipProviders.ExtendedSqlMembershipProvider.dll
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\MembershipProviders\bin\Debug\BugNET.Providers.MembershipProviders.ExtendedSqlMembershipProvider.pdb
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\MembershipProviders\obj\Debug\ResolveAssemblyReference.cache
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\MembershipProviders\obj\Debug\BugNET.Providers.MembershipProviders.ExtendedSqlMembershipProvider.dll
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\MembershipProviders\obj\Debug\BugNET.Providers.MembershipProviders.ExtendedSqlMembershipProvider.pdb

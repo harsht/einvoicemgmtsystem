@@ -1,0 +1,8 @@
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\bin\Debug\BugNET.Providers.FckHtmlEditorProvider.dll
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\bin\Debug\BugNET.Providers.FckHtmlEditorProvider.pdb
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\bin\Debug\BugNET.Providers.HtmlEditorProviders.dll
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\bin\Debug\FredCK.FCKeditorV2.dll
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\bin\Debug\BugNET.Providers.HtmlEditorProviders.pdb
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\obj\Debug\BugNET.Providers.FckHtmlEditorProvider.dll
+C:\BugTrack\BugNET-0.8.99-Source\src\Library\Providers\HtmlEditorProviders\FckHtmlEditorProvider\obj\Debug\BugNET.Providers.FckHtmlEditorProvider.pdb
